@@ -125,6 +125,7 @@
 	选择器:nth-child(N){
 	
 	}
+```
 - 类似nth-child，不同在于从后面开始计算
 ```css
 	选择器:nth-last-child(2){
@@ -136,7 +137,7 @@
 	选择器:nth-of-type(N){
 		
 	}
-	
+```	
 - 属于选择器的第一个字符
 ```css	
 	选择器:first-letter{
