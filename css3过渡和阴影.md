@@ -15,7 +15,7 @@
 	}  
 ```
 `transition是下面4个属性值的合并写法`
-| 属性名称				| 属性值		|
+| 属性名称				| 	属性值|
 | -----					| ---------																			|
 |transition-property	| 规定应用过渡的 CSS 属性的名称														|
 |transition-duration	| 定义过渡效果花费的时间。默认是 0													|
