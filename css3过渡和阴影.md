@@ -15,6 +15,7 @@
 	}  
 ```
 `transition是下面4个属性值的合并写法`
+
 | 属性名称				| 	属性值|
 | -----					| ---------																			|
 |transition-property	| 规定应用过渡的 CSS 属性的名称														|
@@ -35,6 +36,7 @@
 # CSS3 box-shadow 属性
 - box-shadow 属性向框添加一个或多个(用逗号分隔)阴影。
 - `box-shadow: h-shadow v-shadow blur spread color inset;`
+
 | 属性值				| 		说明	|																
 | -----					| ---------	|																		
 |h-shadow	| 必需。水平阴影的位置。允许负值。	|
